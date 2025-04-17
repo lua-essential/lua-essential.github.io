@@ -1,5 +1,3 @@
-# Essential Library Wiki
-
 Welcome to the **Essential Library Wiki**! This document provides detailed information about the library's features, functions, and usage.
 
 ---
